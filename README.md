@@ -1,4 +1,4 @@
-<h2> Wazzup! I'm Jan.</h2>
+<h2> Hola! I'm Jan.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
