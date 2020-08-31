@@ -23,13 +23,6 @@ I'm a FullStack developer 🚀 and cryptocurrency enthusiast based in Berlin, Ge
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-<p align="center">
-<a href="https://github.com/Krystian19">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krystian19&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide=issues,prs" />
-</a>
-</p>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
