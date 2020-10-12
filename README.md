@@ -26,6 +26,5 @@ I'm a FullStack developer 🚀 and cryptocurrency enthusiast based in Berlin, Ge
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-krystian19.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jan-guzman-3170b8148/"><img src="https://img.shields.io/badge/-Jan%20Guzman-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:janfrancisco19@gmail.com"><img src="https://img.shields.io/badge/-janfrancisco19@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
