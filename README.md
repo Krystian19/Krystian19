@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a FullStack developer 🚀 and cryptocurrency enthusiast based in Berlin, Germany.
+I'm a FullStack developer 🚀 and cryptocurrency enthusiast currently based in Berlin, Germany.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
