@@ -10,7 +10,6 @@ I'm a FullStack developer 🚀 and cryptocurrency enthusiast.
   ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
