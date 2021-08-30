@@ -9,19 +9,18 @@
 - 💻 &nbsp;
   ![Go](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![GraphQl](https://img.shields.io/badge/-GraphQl-333333?style=flat&logo=graphql)
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Dgraph](https://img.shields.io/badge/-Dgraph-333333?style=flat&logo=dgraph)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
