@@ -11,7 +11,6 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![GraphQl](https://img.shields.io/badge/-GraphQl-333333?style=flat&logo=graphql)
 - 🛢 &nbsp;
