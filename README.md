@@ -31,8 +31,8 @@
 |-------|
 |<p> <a href="https://github.com/Krystian19"><img src="https://github-profile-trophy.vercel.app/?username=Krystian19&theme=darkhub&margin-w=12&margin-h=10&column=7" alt="Jan's Trophies" /></a> </p>|
 
-| Contribution Graph |
+<!-- | Contribution Graph |
 |--------|
-|[![Jan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Krystian19&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Krystian19 "Jan's Contribution Graph")|
+|[![Jan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Krystian19&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Krystian19 "Jan's Contribution Graph")| -->
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Krystian19.Krystian19)
