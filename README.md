@@ -23,7 +23,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
+<!-- <p align="center"> -->
+  <p align="left">
 <a href="https://www.linkedin.com/in/jan-guzman-3170b8148/"><img src="https://img.shields.io/badge/-Jan%20Guzman-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:janfrancisco19@gmail.com"><img src="https://img.shields.io/badge/-janfrancisco19@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
@@ -34,5 +35,5 @@
 <!-- | Contribution Graph |
 |--------|
 |[![Jan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Krystian19&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Krystian19 "Jan's Contribution Graph")| -->
-
+ 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Krystian19.Krystian19)
