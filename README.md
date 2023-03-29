@@ -23,7 +23,6 @@
 
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<!-- <p align="center"> -->
   <p align="center">
 <a href="https://www.linkedin.com/in/jan-guzman-3170b8148/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:janfrancisco19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -32,7 +31,7 @@
 
 <!-- | Trophies |
 |-------|
-|<p> <a href="https://github.com/Krystian19"><img src="https://github-profile-trophy.vercel.app/?username=Krystian19&theme=darkhub&margin-w=12&margin-h=10&column=7" alt="Jan's Trophies" /></a> </p>| -->
+|<p align="center"> <a href="https://github.com/Krystian19"><img src="https://github-profile-trophy.vercel.app/?username=Krystian19&theme=darkhub&margin-w=12&margin-h=10&column=7" alt="Jan's Trophies" /></a> </p>| -->
 
 <!-- | Contribution Graph |
 |--------|
