@@ -24,9 +24,9 @@
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
   <p align="center">
-<a href="https://www.linkedin.com/in/jan-guzman-3170b8148/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:janfrancisco19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/krystian19"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/jan-guzman-3170b8148/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:janfrancisco19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/krystian19" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
  </p>
 
 <!-- | Trophies |
@@ -37,4 +37,4 @@
 |--------|
 |[![Jan's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Krystian19&theme=react-dark&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/Krystian19 "Jan's Contribution Graph")| -->
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Krystian19.Krystian19)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Krystian19.Krystian19) -->
