@@ -21,12 +21,14 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <!-- <p align="center"> -->
-  <p align="left">
-<a href="https://www.linkedin.com/in/jan-guzman-3170b8148/"><img src="https://img.shields.io/badge/-Jan%20Guzman-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:janfrancisco19@gmail.com"><img src="https://img.shields.io/badge/-janfrancisco19@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <p align="center">
+<a href="https://www.linkedin.com/in/jan-guzman-3170b8148/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:janfrancisco19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/krystian19"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+ </p>
 
 <!-- | Trophies |
 |-------|
